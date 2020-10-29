@@ -1,6 +1,6 @@
-# object_detect_app
+# AR app with Flutter project
 
-A new Flutter project.
+A new Flutter project that uses ARKit plugin to show a sphere
 
 ## Getting Started
 
